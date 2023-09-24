@@ -59,11 +59,11 @@ section h2 {
 
 /* Style images within sections */
 section img {
-    max-width: 90%;
+    max-width: 60%;
     height: auto;
     display: block;
     margin: 10px 0;
-    align-items: center;
+    align-items: center
 }
 
 /* Style the footer */
