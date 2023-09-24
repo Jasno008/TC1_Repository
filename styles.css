@@ -16,7 +16,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #fbe4fc;
+    background-color: #96b6c9;
     color: #000000;
     text-align: center;
     padding: 1em 1em;
@@ -26,7 +26,7 @@ header {
 nav ul {
     list-style: none;
     text-align: center;
-    background-color: #ffe7fe;
+    background-color: #dce1fc;
     padding: 1em 1em;
 }
 
