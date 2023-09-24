@@ -6,7 +6,7 @@ html, body, h1, h2, p, ul, li {
 
 /* Apply a basic page background color and font style */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif, 'Times New Roman', Times, serif;
     background-color: #ffffff;
     color: #000000;
     line-height: 1.6;
@@ -18,14 +18,14 @@ body {
 header {
     background-color: #fbe4fc;
     color: #000000;
-    text-align: left;
+    text-align: center;
     padding: 1em 1em;
 }
 
 /* Style the navigation menu */
 nav ul {
     list-style: none;
-    text-align: left;
+    text-align: center;
     background-color: #ffe7fe;
     padding: 1em 1em;
 }
@@ -37,7 +37,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #797979;
     font-weight: bold;
 }
 
